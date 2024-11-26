@@ -1,5 +1,5 @@
 <template>
-  <h1>Hellowww</h1>
+  <router-view/>
 </template>
 
 
